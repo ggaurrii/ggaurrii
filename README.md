@@ -13,7 +13,7 @@
 - 📍 Based in India, open to remote and global collaboration
 - 🌍 I'm currently open for an intern or a new job opportunity, this is [my resume]https://drive.google.com/file/d/1npX_hC7UPPhNQdI7XOrVBHi87SwY5pEN/view?usp=sharing
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/code/code-original.svg" width="40"/> Skills
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/> Skills
 
 ### Languages
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
