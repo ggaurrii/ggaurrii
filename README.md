@@ -13,7 +13,8 @@
 - 📍 Based in India, open to remote and global collaboration
 - 🌍 I'm currently open for an intern or a new job opportunity, this is [my resume]https://drive.google.com/file/d/1npX_hC7UPPhNQdI7XOrVBHi87SwY5pEN/view?usp=sharing
 
-## <h3 align="left">
+## ## 🛠 Skills
+<h3 align="left">
   Skills
   <svg width="28" height="28" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle; margin-left: 6px;">
     <g>
@@ -41,6 +42,7 @@
     </g>
   </svg>
 </h3>
+
 
 
 ### Languages
