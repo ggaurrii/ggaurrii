@@ -13,38 +13,7 @@
 - 📍 Based in India, open to remote and global collaboration
 - 🌍 I'm currently open for an intern or a new job opportunity, this is [my resume]https://drive.google.com/file/d/1npX_hC7UPPhNQdI7XOrVBHi87SwY5pEN/view?usp=sharing
 
-## ## 🛠 Skills
-<h3 align="left">
-  Skills
-  <svg width="28" height="28" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle; margin-left: 6px;">
-    <g>
-      <animateTransform
-        attributeName="transform"
-        type="rotate"
-        from="0 60 60"
-        to="360 60 60"
-        dur="6s"
-        repeatCount="indefinite" />
-
-      <circle cx="60" cy="60" r="45"
-              fill="none"
-              stroke="#1E90FF"
-              stroke-width="6"
-              stroke-dasharray="6 6"/>
-
-      <text x="60" y="72"
-            text-anchor="middle"
-            font-size="42"
-            fill="#1E90FF"
-            font-family="monospace">
-        &lt;/&gt;
-      </text>
-    </g>
-  </svg>
-</h3>
-
-
-
+## Skills
 ### Languages
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
