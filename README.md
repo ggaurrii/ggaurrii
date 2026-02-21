@@ -11,8 +11,7 @@
 - 🎓 CS Major @Banasthali Vidyapith
 - 🚀 Exploring ways to combine storytelling, design, frontend, and ML
 - 📍 Based in India, open to remote and global collaboration
-- 🌐 Personal website [link](https://ggaurrii.github.io/)
-- 🌍 I'm currently open for an intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1npX_hC7UPPhNQdI7XOrVBHi87SwY5pEN/view?usp=sharing)
+- 🌍 I'm currently open for an intern or a new job opportunity.
 
 ## Skills
 ### Languages
