@@ -10,7 +10,7 @@
 ## 💡 About me
 - 🎓 CS Major @Banasthali Vidyapith
 - 🚀 Exploring ways to combine storytelling, design, frontend, and ML
-- 📍 Based in India, open to remote and global collaboration this is my [resume](https://drive.google.com/file/d/1TM9bTV0v3syXXNviIMnlqGQnYZzBeNvM/view?usp=drivesdk)
+- 📍 Based in India, open to remote and global collaboration this is my [resume](https://drive.google.com/file/d/1Z_4lh3XmAXJAoTh4_GXqC82qSwmi6RHW/view?usp=sharing)
 - 🌍 I'm currently open for an intern or a new job opportunity.
 - 🌐 [Personal Website](https://ggaurrii.github.io/)
   
